@@ -1,0 +1,10 @@
+# 智能交通检测系统依赖（比赛版）
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+pillow>=9.5.0
+matplotlib>=3.7.0
+torch>=1.13.0
+torchvision>=0.14.0
+
+# 可选：GPU 环境请按显卡和 CUDA 版本安装对应的 PyTorch 版本。

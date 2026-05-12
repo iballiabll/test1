@@ -1,0 +1,15 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+runs/
+检测结果/*.mp4
+检测结果/*.jpg
+检测结果/*.json
+检测结果/*.txt
+
+datasets/traffic/images/
+datasets/traffic/labels/
+models/*.pt
+!yolov8n.pt
